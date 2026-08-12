@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Mayur Borah
-- 👀 I’m interested in developing project using Django framework
-- 🌱 I’m currently learning ReactJS and AWS
-- 💞️ I’m looking to collaborate on upcoming project on Python and Django
-- 📫 How to reach me babu4080@gmail.com || +91-7972732467
+## 👋 Hi, I'm Mayur Borah
+
+Module Lead | FinTech Architecture | Backend & Distributed Systems | Applied AI
+
+🌐 **Portfolio:** [mayurborah.com](https://www.mayurborah.com/)
+
+I build scalable financial systems, lending platforms, distributed services,
+and AI-powered engineering solutions.
 
 <!---
 babu4080/babu4080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
